@@ -1,6 +1,6 @@
 # VedioShowAPlayer
 
-APlayer is created by thunder ,APlayer is seem to be ActiveX. 
+APlayer is created by thunder ,and it is seem to be ActiveX. 
 
 # APlayerSDK is running on windows plateform
 
