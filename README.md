@@ -10,3 +10,5 @@ because  we need APlayerLib and  AxAPlayerLib.
 # APlayer window
 
 ![Index-page](https://github.com/BoonyaCSharp-ASP/VedioShowAPlayer/raw/master/VedioShow/images/logo.png)
+
+Knowing more:http://aplayer.open.xunlei.com/
