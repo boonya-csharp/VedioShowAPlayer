@@ -11,11 +11,11 @@ using System.Diagnostics;
 
 namespace VedioShow
 {
-    public partial class Form1 : Form
+    public partial class Player : Form
     {
         string path = AppDomain.CurrentDomain.BaseDirectory;
         string pathVedio = "";
-        public Form1()
+        public Player()
         {
             InitializeComponent();
         }
