@@ -39,7 +39,7 @@
             // 
             // btn_Show
             // 
-            this.btn_Show.Location = new System.Drawing.Point(28, 56);
+            this.btn_Show.Location = new System.Drawing.Point(12, 308);
             this.btn_Show.Name = "btn_Show";
             this.btn_Show.Size = new System.Drawing.Size(75, 23);
             this.btn_Show.TabIndex = 1;
@@ -49,7 +49,7 @@
             // 
             // btn_stop
             // 
-            this.btn_stop.Location = new System.Drawing.Point(133, 56);
+            this.btn_stop.Location = new System.Drawing.Point(112, 308);
             this.btn_stop.Name = "btn_stop";
             this.btn_stop.Size = new System.Drawing.Size(75, 23);
             this.btn_stop.TabIndex = 4;
@@ -59,7 +59,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(28, 153);
+            this.button1.Location = new System.Drawing.Point(350, 308);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 5;
@@ -69,7 +69,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(133, 153);
+            this.button2.Location = new System.Drawing.Point(454, 308);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 6;
@@ -80,17 +80,17 @@
             // axPlayer1
             // 
             this.axPlayer1.Enabled = true;
-            this.axPlayer1.Location = new System.Drawing.Point(250, 32);
+            this.axPlayer1.Location = new System.Drawing.Point(12, 12);
             this.axPlayer1.Name = "axPlayer1";
             this.axPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axPlayer1.OcxState")));
-            this.axPlayer1.Size = new System.Drawing.Size(279, 166);
+            this.axPlayer1.Size = new System.Drawing.Size(517, 277);
             this.axPlayer1.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(548, 221);
+            this.ClientSize = new System.Drawing.Size(559, 353);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btn_stop);
